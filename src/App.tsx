@@ -107,7 +107,11 @@ function App() {
       </main>
       <footer>
         Mattias Mucherie 2021 -{" "}
-        <a href="https://google.com" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/mattiasmucherie/portfolio-mattias"
+          target="_blank"
+          rel="noreferrer"
+        >
           Source
         </a>
       </footer>
