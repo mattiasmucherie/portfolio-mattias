@@ -77,7 +77,7 @@ function App() {
           <p className="intro-text">
             Welcome to my portfolio! I am Mattias Mucherie - currently a
             frontend developer for Scania in Stockholm. My expertise is
-            currently React with Typescript with accesories however I am always
+            currently React with Typescript and accesories, however I am always
             looking to expand my skill set.
             <br />
             Other then coding, my other passions include rugby, cycling and
