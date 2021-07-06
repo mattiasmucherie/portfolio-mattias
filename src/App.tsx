@@ -6,6 +6,7 @@ import ButtonComp from "./assets/pictures/button-component.png"
 import MF from "./assets/pictures/microfronts.png"
 import ScaniaTruck from "./assets/pictures/scania-truck-online.png"
 import MattiasPortrait from "./assets/pictures/portrait.jpg"
+import RedditViewer from "./assets/pictures/reddit-viewer.png"
 import Card from "./components/Card"
 
 export interface Project {
@@ -16,6 +17,14 @@ export interface Project {
   sourceCode?: string
 }
 const projects: Project[] = [
+  {
+    title: "Reddit Viewer",
+    description:
+      "A website to easily naviagte through Reddit. Built with React, Tyrpescript and styled-components",
+    img: RedditViewer,
+    demo: "https://determined-beaver-40f9ca.netlify.app/",
+    sourceCode: "https://github.com/mattiasmucherie/reddit-viewer",
+  },
   {
     title: "Been Map",
     description:
